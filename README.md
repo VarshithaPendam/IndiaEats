@@ -1,5 +1,5 @@
 
-**India Eats - Your solution for food waste management**
+**Food Waste Management System**
 
 This web application facilitates charity by connecting donors with NGOs and individuals in need. Donors can create accounts, list excess items like food, and make them visible to those in need, enabling direct contact for donations.
 
